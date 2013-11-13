@@ -255,25 +255,29 @@
     "id": 298,
     "displayName": "Leather Cap",
     "stackSize": 1,
-    "name": "helmetCloth"
+    "name": "helmetCloth",
+    "diable": true
   },
   "299": {
     "id": 299,
     "displayName": "Leather Tunic",
     "stackSize": 1,
-    "name": "chestplateCloth"
+    "name": "chestplateCloth",
+    "diable": true
   },
   "300": {
     "id": 300,
     "displayName": "Leather Pants",
     "stackSize": 1,
-    "name": "leggingsCloth"
+    "name": "leggingsCloth",
+    "diable": true
   },
   "301": {
     "id": 301,
     "displayName": "Leather Boots",
     "stackSize": 1,
-    "name": "bootsCloth"
+    "name": "bootsCloth",
+    "diable": true
   },
   "302": {
     "id": 302,
